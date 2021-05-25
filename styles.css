@@ -134,7 +134,7 @@ header .header-work{
 
 .index-banner{
 	width: 100%;
-	height: calc(100vh - 100px);
+	height: calc(100vh - 200px);
 	background-image:linear-gradient(rgba(29, 38, 113, 0.4), rgba(195, 55, 100, 0.4)), url('img/pratheesh.jpg');
 	background-position: center;
 	background-repeat: no-repeat;
@@ -186,7 +186,7 @@ header .header-work{
 section.background-video{
 	position: relative;
 	width: 100%;
-	height: calc(100vh - 100px);
+	height: calc(100vh - 200px);
 	 align-items: center;
 	justify-content: center; 
 	display: flex;
@@ -322,7 +322,7 @@ section .video{
 
 section.contact{
 	width: 100%;
-	 height: calc(100vh - 100px);
+	 height: calc(100vh - 200px);
 	background-image: linear-gradient(rgba(29, 38, 113, 0.3), rgba(195, 55, 100, 0.3)),url('img/contact-background-b.jpg');
 	background-position: center;
 	background-repeat: no-repeat;
@@ -430,7 +430,7 @@ section.about{
 	width: 100%;
 }
 section .about-wrapper{
-	min-height: calc(100vh - 100px);
+	min-height: calc(100vh - 200px);
 	width: 100% ;
 	background-image: linear-gradient(rgba(0,0,0,0.7) , rgba(0,0,0,0.7)) , url("img/about-me.jpg");
 	background-position: center;
