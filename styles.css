@@ -34,7 +34,7 @@ header{
 .header-brand{
 	font-family: 'Monoton', cursive;
 	color:#a6e04d;
-	font-size: 40px;
+	font-size: 80px;
 	display: block;
 	margin: 0 auto;
 	text-align: center;
@@ -54,7 +54,7 @@ header nav ul li{
 }
 header nav ul li a{
 	font-family: 'Mandali', sans-serif;
-	font-size: 20px;
+	font-size: 40px;
 	font-weight: 500;
 	color: #c5edd0;
 	line-height: 25px
