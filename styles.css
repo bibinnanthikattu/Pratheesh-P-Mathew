@@ -198,7 +198,7 @@ header .header-work{
 section .img-mobile{
 	width: 100%;
 	height: calc(100vh - 200px);
-	background-image: linear-gradient(rgba(29, 38, 113, 0.4), rgba(195, 55, 100, 0.4)), url('img/3.jpg'); 
+	background-image: linear-gradient(rgba(29, 38, 113, 0.4), rgba(195, 55, 100, 0.4)), url('img/3.JPG'); 
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size:cover;	
