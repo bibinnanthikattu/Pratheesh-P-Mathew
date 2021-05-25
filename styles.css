@@ -325,7 +325,7 @@ section .video{
 
 section.contact{
 	width: 100%;
-	 height: calc(100vh - 200px);
+	min-height: calc(100vh - 200px);
 	background-image: linear-gradient(rgba(29, 38, 113, 0.3), rgba(195, 55, 100, 0.3)),url('img/contact-background-b.jpg');
 	background-position: center;
 	background-repeat: no-repeat;
@@ -426,7 +426,6 @@ section.contact{
 /* About */
 section.about{
 	box-sizing: border-box;
-        height: calc(100vh - 200px);
 	text-align: center;
 	/* color: #c5edd0; */
 	line-height: 40px;
@@ -445,7 +444,7 @@ section .about-wrapper{
 	padding: 30px 100px;
 }
 article h2{
-	margin-top: 40px;
+	margin-top: 90px;
 	font-size: 45px;
 	font-weight: 800;
 	text-transform: uppercase;
