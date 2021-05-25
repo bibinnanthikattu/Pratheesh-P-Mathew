@@ -432,9 +432,9 @@ section.about{
 	letter-spacing: 1px;
 	width: 100%;
 }
-section .about-wrapper{
-	min-height: calc(100vh - 200px);
+section .about-wrapper{	
 	width: 100% ;
+	min-height: calc(100vh - 200px);
 	background-image: linear-gradient(rgba(0,0,0,0.7) , rgba(0,0,0,0.7)) , url("img/about-me.jpg");
 	background-position: center;
 	background-repeat: no-repeat;
