@@ -787,6 +787,9 @@ section .video video{
 	line-height: 13px;
 }
 /* About */
+section .about-wrapper{
+	min-height: calc(100vh - 100px) !important;
+	}
 article h2{
 	margin-top: 10px;	
 	letter-spacing: 2px;
