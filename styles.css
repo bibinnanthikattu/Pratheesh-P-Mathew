@@ -65,7 +65,9 @@ header .header-work{
 
 /*desktop version*/
 @media only screen and (min-width: 1000px){
-
+	header{
+		height: 100px;
+	}
 	.header-brand{
 	margin: 28px 0;
 	text-align: left;
